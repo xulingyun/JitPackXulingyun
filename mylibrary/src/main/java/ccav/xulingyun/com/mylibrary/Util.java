@@ -7,7 +7,7 @@ package ccav.xulingyun.com.mylibrary;
 
 public class Util {
 
-    public void getXulingyun(){
+    public static void getXulingyun(){
 
     }
 }
